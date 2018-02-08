@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Deceased Client Data Sync", "Deceased Client Data Sync\Deceased Client Data Sync.dtproj", "{0F6CA88E-86CF-4BDE-AA28-4AD0A28DEAE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F6CA88E-86CF-4BDE-AA28-4AD0A28DEAE7}.Development|Default.ActiveCfg = Development
+		{0F6CA88E-86CF-4BDE-AA28-4AD0A28DEAE7}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83DE9F4F-8D23-421B-86AC-CDB65D29671C}
+	EndGlobalSection
+EndGlobal
